@@ -33,3 +33,8 @@ Server is running on port 8000
 Database Connected
 ```
 ### Make sure to run the server on port 8000 for a successful connection to the MongoDB Atlas database.
+
+# Hosting service
+### I deployed my project on Render hosting service
+https://backend-assignment-hz28.onrender.com
+
