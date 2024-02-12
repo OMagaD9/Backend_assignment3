@@ -13,12 +13,12 @@ export default function Dashboard() {
 
   return (
     <div style={{ maxWidth: '800px', margin: '0 auto', padding: '20px' }}>
-      <h1 style={{ color: '#55d6e2F', cursor: 'pointer' }} onClick={handleFindMealsClick}>
+      <h1 style={{ color: '#55d6e2', cursor: 'pointer' }} onClick={handleFindMealsClick}>
         Find Meals For Your Ingredients
       </h1>
       {!!user && (
         <div>
-          <h2 style={{ color: '#55d6e2' }}>Hi, {user.name}!</h2>
+          <h2 style={{ color: '#008000' }}>Hi, {user.name}!</h2>
           {/* Add more content or elements as needed */}
         </div>
       )}
