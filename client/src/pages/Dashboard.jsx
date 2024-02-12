@@ -8,8 +8,7 @@ export default function Dashboard() {
   const navigate = useNavigate();
 
   const handleFindMealsClick = () => {
-    // Navigate to the desired route (e.g., index.ejs)
-    navigate('../main/index');
+    window.open('http://localhost:3000/login', '_blank');
   };
 
   return (

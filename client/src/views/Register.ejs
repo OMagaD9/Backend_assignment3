@@ -1,0 +1,13 @@
+<%- include('header') %>
+  <div class="center">
+    <h1>Registration</h1>
+
+    <% if (successMessage) { %>
+      <p style="color: rgb(114, 151, 114);"><%= successMessage %></p>
+    <% } %>
+
+    <% if (errorMessage) { %>
+      <p style="color: rgb(224, 63, 63);"><%= errorMessage %></p>
+    <% } %>
+  </div>
+<%- include('footer') %>

@@ -9,9 +9,9 @@ export default function Home() {
       </p>
 
       <div style={{ marginTop: '20px', border: '1px solid #ccc', padding: '10px', borderRadius: '8px' }}>
-        <h2>Featured Section</h2>
+        <h2>How is our website useful?</h2>
         <p>
-          Explore our latest articles, exciting news, and much more in our featured section. Log in to unlock the full experience!
+        "Finding Meals For Your Ingredients" streamlines your cooking process by offering a quick and efficient way to discover recipes based on the ingredients you already have. Say goodbye to last-minute grocery store runs and food waste – our platform helps you make the most of what's in your kitchen, turning every meal into a delightful and sustainable experience.
         </p>
         {/* Add more content or elements as needed */}
       </div>
