@@ -8,7 +8,7 @@ export default function Dashboard() {
   const navigate = useNavigate();
 
   const handleFindMealsClick = () => {
-    window.open('http://localhost:3000/login', '_blank');
+    window.open('https://omagad9.github.io/Localhost5137/', '_blank');
   };
 
   return (
